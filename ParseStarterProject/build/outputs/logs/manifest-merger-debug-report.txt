@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+MERGED from [com.android.support:design:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\bdcfae0544bb39a8de488aa533e429ef\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\ed4bca1b14ab3cf011905748a180ec74\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\70b07bff0d8eb3b832189bde6af1b99d\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+	package
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:1-51:12
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+application
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:16:5-49:19
+MERGED from [com.android.support:design:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\bdcfae0544bb39a8de488aa533e429ef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\bdcfae0544bb39a8de488aa533e429ef\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\ed4bca1b14ab3cf011905748a180ec74\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\ed4bca1b14ab3cf011905748a180ec74\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\70b07bff0d8eb3b832189bde6af1b99d\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\70b07bff0d8eb3b832189bde6af1b99d\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:19:9-44
+	android:allowBackup
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
+	android:value
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
+	android:value
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
+activity#com.parse.starter.activity.LoginActivity
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:30:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
+activity#com.parse.starter.activity.MainActivity
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:9-59
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:38:19-56
+activity#com.parse.starter.activity.CadastroActivity
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:9-63
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:39:19-60
+activity#com.parse.starter.activity.FeedUsuariosActivity
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:40:9-48:20
+	android:parentActivityName
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:43:13-64
+	android:label
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:42:13-65
+	android:theme
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:44:13-44
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:41:13-58
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:45:13-47:75
+	android:value
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:47:17-72
+	android:name
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml:46:17-63
+uses-sdk
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\bdcfae0544bb39a8de488aa533e429ef\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\design-22.2.1.aar\bdcfae0544bb39a8de488aa533e429ef\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\ed4bca1b14ab3cf011905748a180ec74\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.1.aar\ed4bca1b14ab3cf011905748a180ec74\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\70b07bff0d8eb3b832189bde6af1b99d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\Leonardo\Desktop\FlapBird\.gradle\caches\transforms-1\files-1.1\support-v4-23.0.0.aar\70b07bff0d8eb3b832189bde6af1b99d\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Leonardo\Desktop\Aulas Android\Intagram\Instagram\ParseStarterProject\src\main\AndroidManifest.xml
